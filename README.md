@@ -14,8 +14,8 @@ Skips non-alphabetic characters during encryption/decryption.
 Usage:
 Run the program.
 Choose from the available options:
-1: Encode text
-2: Decode text
-3: Exit
+1- Encode text
+2- Decode text
+3- Exit
 When encoding or decoding, enter the text and the desired offset (within the range of -26 to 26, inclusive).
 View the result.
